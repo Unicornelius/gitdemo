@@ -8,5 +8,5 @@ int print_char()
 int main ()
 {
    printf "HelloWorld!" ;
-   return 0 ;
+   print_char()  return 0 ;
 }
