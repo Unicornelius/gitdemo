@@ -1,5 +1,1 @@
-#include <stdio.h> <helloworld.c>
-<<<<<<< HEAD
-#include <helloworld.c>
-=======
->>>>>>> master
+#include <stdio.h> <helloworld.c> <helloworld.h>
